@@ -1,0 +1,13 @@
+000 (7776610.000.000) 07/19 15:46:38 Job submitted from host: <172.21.0.15:9618?addrs=172.21.0.15-9618&noUDP&sock=4660_f36c_3>
+...
+001 (7776610.000.000) 07/19 15:46:45 Job executing on host: <172.20.1.49:50897?addrs=172.20.1.49-50897>
+...
+007 (7776610.000.000) 07/19 15:46:45 Shadow exception!
+	Error from slot1@33126@raven348.bullx: Failed to execute '/home/c1324200/pycbc_inj/frame_inference.sh': (errno=13: 'Permission denied')
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (7776610.000.000) 07/19 15:46:45 Job was held.
+	Error from slot1@33126@raven348.bullx: Failed to execute '/home/c1324200/pycbc_inj/frame_inference.sh': (errno=13: 'Permission denied')
+	Code 6 Subcode 13
+...
